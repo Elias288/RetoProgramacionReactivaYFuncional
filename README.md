@@ -1,6 +1,11 @@
 # Reto Programacion Reactiva y Funcional
 
-[Localhost](http://localhost:8080/usuario/)
+## Instrucciones
+
+**Mongo**
+Ejecutar el [docker-compose.yml](docker-compose.yml) con `docker-compose up -d` que crea el contenedor de MongoDB
+
+[Localhost](http://localhost:8083/usuario/)
 
 ## Parte 1
 
